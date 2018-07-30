@@ -9,7 +9,7 @@ const dateFormat = require('dateformat');
 const r1 = require('snekfetch');
 const Canvas = require("canvas");
 const jimp = require('jimp')
-const weather = require('weather-js');
+
 const prefix = "#";
 
 
